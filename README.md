@@ -1,7 +1,3 @@
-Of course. Here is a README file for your GitHub project, based on the contents of your notebook.
-
-You can copy the text below and paste it into the `README.md` file in your GitHub repository.
-
 ---
 
 # NHL Salary Predictor Model
